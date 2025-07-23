@@ -1,0 +1,17 @@
+[project]
+name = "project_energy_analysis"
+version = "0.1.0"
+description = "A project for US Weather + Energy Analysis Pipeline"
+dependencies = [
+    "requests",
+    "pandas",
+    "pyyaml",
+    "tenacity",
+    "streamlit",
+    "plotly",
+    "scipy",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

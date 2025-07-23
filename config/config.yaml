@@ -1,0 +1,20 @@
+api_keys:
+  noaa: "MIMcgvSBGionUrzutDbyGEbcujjzTQNf"
+  eia: "U2MNsgaBB3P2gMuc2NugbQewIXClYEmDdhjDOafi"
+
+cities:
+  - name: "New York"
+    noaa_station_id: "GHCND:USW00094728"
+    eia_region_code: "NYIS"
+  - name: "Chicago"
+    noaa_station_id: "GHCND:USW00094846"
+    eia_region_code: "PJM"
+  - name: "Houston"
+    noaa_station_id: "GHCND:USW00012960"
+    eia_region_code: "ERCO"
+  - name: "Phoenix"
+    noaa_station_id: "GHCND:USW00023183"
+    eia_region_code: "AZPS"
+  - name: "Seattle"
+    noaa_station_id: "GHCND:USW00024233"
+    eia_region_code: "SCL"
