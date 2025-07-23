@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # US Weather + Energy Analysis Pipeline
 
 This project implements a data pipeline to fetch, process, and analyze historical weather and energy consumption data for several major US cities. The processed data is then visualized through an interactive Streamlit dashboard.
@@ -155,3 +156,6 @@ Project_Energy_Analysis/
 ## License
 
 [Specify your project's license here, e.g., MIT, Apache 2.0, etc.]
+=======
+# My_Data-_Science_Project-Julu-2025
+>>>>>>> 2a010bcb02184d24e04a4b8f06f7b0988ff904e6
